@@ -1,1 +1,1 @@
-This Github is for staff to report any in-game/discord bug to Nemo/Cal so it can be handled.
+This Github is for players and staff to report any in-game/discord bug to Nemo and Cal.
